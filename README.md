@@ -5,7 +5,7 @@
  
 ### 📫 Contato & Redes Sociais
 [![LinkedIn](www.linkedin.com/in/gustavo-augusto-8262a2243)
-[![E-mail] ( gustavogustavo608@gmail.com )
+[![E-mail]( gustavogustavo608@gmail.com )
 [![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](LINK_DO_PDF_OU_SITE)
  
 ---
