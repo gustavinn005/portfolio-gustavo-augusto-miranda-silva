@@ -41,9 +41,8 @@ Atualmente cursando o [2º] período de Analise e Desenvolvimento de Sistemas na
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-|Desenvolvimento app videoconferencia manus AI 
- |Projeto de criação de app interativo com acesso a videoconferencia, estrutura pelo manus. | [:---: ](https://github.com/gustavinn005/portfolio-gustavo-augusto-miranda-silva/tree/main/SM9%20-%20Desenvolvimento%20de%20App%20de%20Videoconfer%C3%AAncia%20com%20Manus%20AI%20e%20Jitsi)|
-https://github.com/gustavinn005/portfolio-gustavo-augusto-miranda-silva/tree/main/SM9%20-%20Desenvolvimento%20de%20App%20de%20Videoconfer%C3%AAncia%20com%20Manus%20AI%20e%20Jitsi
+| **Desenvolvimento app videoconferencia manus AI Jitsi** | Projeto de criação de app interativo com acesso a videoconferencia, estrutura pelo Manus. | [Link Projeto ](https://github.com/gustavinn005/portfolio-gustavo-augusto-miranda-silva/tree/main/SM9%20-%20Desenvolvimento%20de%20App%20de%20Videoconfer%C3%AAncia%20com%20Manus%20AI%20e%20Jitsi)|
+
 ---
  
 ### 🏗 Estrutura do Repositório
